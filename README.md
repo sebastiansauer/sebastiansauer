@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Sebastian Sauer, and I'm a professor in psychology focusing on statistics and data science.
+
+- 🔭 I'm currently working on hate-speech detection in the context of German politics on social media.
+- 🤩 I'm striving to prepare students for today's and tomorrow's real-life challenges.
+- 🥳 I love investigating social and psychological research questions using data and R or Python.
+  
+
